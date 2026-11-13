@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Get started</h1>
+      <h1 class="text-3xl font-bold underline">Get started</h1>
     </>
   )
 }
